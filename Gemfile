@@ -7,6 +7,9 @@ gem 'rails', '4.2.1'
 # Devise to add users sign up and accounts access
 gem 'devise', '~> 3.4.0'
 
+# Bootstraps Sass
+gem 'bootstrap-sass', '~> 3.2.0'
+
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 
