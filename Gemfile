@@ -10,6 +10,9 @@ gem 'devise', '~> 3.4.0'
 # Bootstraps Sass
 gem 'bootstrap-sass', '~> 3.2.0'
 
+# Acts_as_votable gem
+gem 'acts_as_votable', '~> 0.10.0'
+
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 
